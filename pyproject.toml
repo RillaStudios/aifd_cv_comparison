@@ -1,0 +1,10 @@
+[project]
+name = "aifd_cv_comparison"
+version = "0.0.1"
+description = "A package to compare a resume to a job posting, and provide a score and feedback."
+authors = [{name = "Izaak Ford-Dow"}]
+dependencies = []
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
